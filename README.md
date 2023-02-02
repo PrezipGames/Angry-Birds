@@ -8,7 +8,7 @@ Lerne eines der am meisten heruntergeladenen Mobile Games aller Zeiten zu entwic
 - [🧰 Assets Download](https://github.com/PrezipGames/Angry-Birds/blob/main/AngryBirds.unitypackage)
 - [🎮 Downloade das ganze Projekt](https://github.com/PrezipGames/Angry-Birds/archive/refs/heads/main.zip)
 - [🎬 YT Tutorial](https://www.youtube.com/watch?v=-J0G3fZdR2M)
-- [💬 Joint unserem Discord Server](https://discord.gg/kusy4JQ4)
+- [💬 Joint unserem Discord Server](https://discord.gg/cY5RW7D95u)
 - [👍 Abonniert um keine Videos zu verpassen](https://www.youtube.com/@prezipgames)
 
 ![](Images/AngryBirds1.png)
