@@ -2,7 +2,7 @@
 
 Lerne eines der am meisten heruntergeladenen Mobile Games aller Zeiten zu entwickeln. Angry Birds wurde von dem finnischen Entwicklerstudio Rovio Entertainment entwickelt und erstmals 2009 veröffentlicht. Angry Birds ist ein Level basiertes Game, in dem man Vögel aus einer Schleuder auf Schweine schießt.
 
-- Schwierigkeitsgrad: Mittel
+- Schwierigkeitsgrad: Fortgeschritten
 - Themen: Levelmenü, Werte abspeichern
 - Version: 2020.3.26f1
 - [🧰 Assets Download](https://github.com/PrezipGames/Angry-Birds/blob/main/AngryBirds.unitypackage)
